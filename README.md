@@ -27,13 +27,15 @@ To get the ChatBot project up and running on your local machine, follow these st
 
 ```bash
 git clone https://github.com/0xJsaad/ChatBot.git
+```
+
 Open the project in Xcode.
 
 Build and run the project using the Xcode simulator.
 
 Interact with the chatbot by sending messages and receiving responses.
 
-Usage
+## Usage
 This ChatBot project is designed to be a learning resource and starting point for those interested in creating chat applications in Swift. You can use this project to understand:
 
 How to structure a simple chat interface.
@@ -41,13 +43,13 @@ How to implement user and bot message bubbles.
 How to manage chat conversations and predefined responses.
 Feel free to modify and expand upon this project to create more advanced chat applications with additional features.
 
-Contributing
+## Contributing
 If you'd like to contribute to this project or have ideas for improvements, feel free to submit issues or pull requests. Your contributions are welcome!
 
 
-Contact
+## Contact
 For questions or feedback, you can reach out to 0xJsaad via p03930566@gmail.com.
 
 Happy coding!
 
-0xJsaad
+🍎0xJsaad
